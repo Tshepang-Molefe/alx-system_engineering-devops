@@ -1,7 +1,2 @@
 #!/bin/bash
 export BEST="School"
-chmod u+x 7-file
-git add .
-git commit -m 'file'
-git push
-
