@@ -1,2 +1,2 @@
 #!/bin/bash
-Task 7 is export School="BEST"
+Task 7 is export BEST="School"
